@@ -1,0 +1,20 @@
+C:\Users\senem\source\repos\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.exe.config
+C:\Users\senem\source\repos\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.exe
+C:\Users\senem\source\repos\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.pdb
+C:\Users\senem\source\repos\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csprojResolveAssemblyReference.cache
+C:\Users\senem\source\repos\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.Form1.resources
+C:\Users\senem\source\repos\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.Properties.Resources.resources
+C:\Users\senem\source\repos\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.GenerateResource.Cache
+C:\Users\senem\source\repos\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.CoreCompileInputs.cache
+C:\Users\senem\source\repos\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.exe
+C:\Users\senem\source\repos\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.pdb
+C:\Users\senem\OneDrive\Masaüstü\VeriTabanı Proje\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.exe.config
+C:\Users\senem\OneDrive\Masaüstü\VeriTabanı Proje\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.exe
+C:\Users\senem\OneDrive\Masaüstü\VeriTabanı Proje\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.pdb
+C:\Users\senem\OneDrive\Masaüstü\VeriTabanı Proje\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csprojResolveAssemblyReference.cache
+C:\Users\senem\OneDrive\Masaüstü\VeriTabanı Proje\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.Form1.resources
+C:\Users\senem\OneDrive\Masaüstü\VeriTabanı Proje\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.Properties.Resources.resources
+C:\Users\senem\OneDrive\Masaüstü\VeriTabanı Proje\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.GenerateResource.Cache
+C:\Users\senem\OneDrive\Masaüstü\VeriTabanı Proje\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.CoreCompileInputs.cache
+C:\Users\senem\OneDrive\Masaüstü\VeriTabanı Proje\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.exe
+C:\Users\senem\OneDrive\Masaüstü\VeriTabanı Proje\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.pdb
